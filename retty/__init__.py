@@ -1,7 +1,4 @@
 __author__ = 'doug'
 
-def main():
-  """
-
-  """
-  print 'hello world'
+print 'hello worlds'
+print "hi doug"
